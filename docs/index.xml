@@ -6,10 +6,19 @@
     <description>Recent content in Home on O chytrém ševci a hloupém čertovi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 13:46:08 +0200</lastBuildDate>
     
 	<atom:link href="http://jan-martinek.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zámek Milotice</title>
+      <link>http://jan-martinek.github.io/hugo-start/post/zamky/</link>
+      <pubDate>Wed, 28 Mar 2018 13:46:08 +0200</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/post/zamky/</guid>
+      <description>V našem skupinovém tématu zpracováváme zámky na jižní Moravě. Vybral jsem si street view pohled na jeden z nich.</description>
+    </item>
     
     <item>
       <title>All albums of The Beatles</title>
